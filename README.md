@@ -30,7 +30,7 @@ Repositório criado para armazenar exercícios, projetos e scripts desenvolvidos
 ⏺︎ Remover Últimos Elementos<br>
 ⏺︎ Remover Elemento por Posição<br>
 ⏺︎ Remover Elementos Específicos<br>
-⏺︎ Confira meu projeto no GitHub: [Tuplas](https://github.com/VictorVolpi/PYTHON/blob/main/Tupla.zip)<br>
+⏺︎ Confira meu projeto no GitHub: [Tuplas em Python](https://github.com/VictorVolpi/PYTHON/blob/main/Tupla.zip)<br>
 
 ### 🟢 Atividade 3 → Dicionário em Python 
 
@@ -44,7 +44,7 @@ Repositório criado para armazenar exercícios, projetos e scripts desenvolvidos
 ⏺︎ Iterando pelos Valores<br>
 ⏺︎ Iterando por Chave e Valor<br>
 ⏺︎ Dicionário Misto<br>
-⏺︎ Confira meu projeto no GitHub: [Print](https://github.com/VictorVolpi/PYTHON/blob/main/Print.png)<br>
+⏺︎ Confira meu projeto no GitHub: [Dicionario em Python](https://github.com/VictorVolpi/PYTHON/blob/main/Dicionario%20em%20python.zip)<br>
 
 ### 🟢 Atividade 4 → PythonAutoGui
 
@@ -59,7 +59,7 @@ Repositório criado para armazenar exercícios, projetos e scripts desenvolvidos
 ⏺︎ Script que tira uma print da tela<br>
 ⏺︎ Texto que escreve na barra de pesquisa do bing<br>
 ⏺︎ Todas as teclas identificada pelae biblioteca<br>
-⏺︎ Confira meu projeto no GitHub: [Print](https://github.com/VictorVolpi/PYTHON/blob/main/Print.png)<br>
+⏺︎ Confira meu projeto no GitHub: [PythonAutoGui](https://github.com/VictorVolpi/PYTHON/blob/main/Atividade%20de%20PythonGui.zip)<br>
 
 ### 🟢 Atividade 5 → Função em Python
 
@@ -69,13 +69,17 @@ Repositório criado para armazenar exercícios, projetos e scripts desenvolvidos
 ⏺︎ Programa de numeors maiores e menor<br>
 ⏺︎ Programa que calcula as quatros operações<br>
 ⏺︎ Programa sobre salario e Reajuste<br>
-⏺︎ Confira meu projeto no GitHub: [Print](https://github.com/VictorVolpi/PYTHON/blob/main/Print.png)<br>
+⏺︎ Confira meu projeto no GitHub: [Função em Python](https://github.com/VictorVolpi/PYTHON/blob/main/fun%C3%A7%C3%A3o.zip)<br>
 
 ### 🟢 Atividade 6 → Calculadora em Python
 
 ⏺︎ Calculadora em Python<br>
 ⏺︎ Funções separadas para cada operação (adição, subtração, multiplicação, divisão, potência e raiz quadrada).<br>
-⏺︎ Confira meu projeto no GitHub: [Print](https://github.com/VictorVolpi/PYTHON/blob/main/Print.png)<br>
+⏺︎ Confira meu projeto no GitHub: [Calculadora em Python](https://github.com/VictorVolpi/PYTHON/blob/main/Calculadora.zip)<br>
 
 
-⏺︎ Confira meu projeto no GitHub: [Print](https://github.com/VictorVolpi/PYTHON/blob/main/Print.png)<br>
+### 🟢 Atividade 7 → Analise de vendas em Python
+
+⏺︎ Analise de vendas de celulares Superficial<br>
+⏺︎ Dados organizados com Gráfico de barras exibindo as vendas de cada produto com Matplotlib<br>
+⏺︎ Confira meu projeto no GitHub: [Analise de vendas em Python](https://github.com/VictorVolpi/PYTHON/blob/main/analise_vendas.py)<br>

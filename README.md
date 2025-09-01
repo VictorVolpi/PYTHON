@@ -5,15 +5,15 @@ Repositório criado para armazenar exercícios, projetos e scripts desenvolvidos
 
 ### 🟢 Atividade 1 → Print do codigo rodando 
 
-⏺︎ Total de Itens da Lista
-⏺︎ Concatenação de Listas
-⏺︎ Primeiro e Último Item
-⏺︎ Inserir Item na Lista
-⏺︎ Alterar e Remover Itens
-⏺︎ Ordenação Crescente
-⏺︎ Ordenação Decrescente
-⏺︎ Soma de Números Pares
-⏺︎ Média dos Números
+⏺︎ Total de Itens da Lista<br>
+⏺︎ Concatenação de Listas<br>
+⏺︎ Primeiro e Último Item<br>
+⏺︎ Inserir Item na Lista<br>
+⏺︎ Alterar e Remover Itens<br>
+⏺︎ Ordenação Crescente<br>
+⏺︎ Ordenação Decrescente<br>
+⏺︎ Soma de Números Pares<br>
+⏺︎ Média dos Números<br>
 
 ### 🟢 Atividade 2 
 
